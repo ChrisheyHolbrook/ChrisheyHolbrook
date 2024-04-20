@@ -12,7 +12,7 @@ About Me
 
 What I Do
 
-In my journey through the intersection of healthcare and technology, I've refined my skills in data analysis, coding, and project management. I'm particularly interested in:
+In my journey through the intersection of healthcare and technology, I've refined my skills in data analysis, coding, and patient healthcare data. I'm particularly interested in:
 
 📊 Data-driven insights for public health interventions
 
