@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chrishey Holbrook. I am a Health Informatics Masters studen with a background in public health and health science. Currently pursuing a master's degree in health informatics, I am deeply committed to leveraging technology and data to improve healthcare outcomes and advance population health.
+My name is Chrishey Holbrook. I am a Health Informatics student with a background in public health and health sciences. Currently pursuing a master's degree in health informatics, I am deeply committed to leveraging technology and data to improve healthcare outcomes and advance population health. 
 
 About Me
 
